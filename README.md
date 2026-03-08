@@ -27,7 +27,7 @@ Documenting specific takeaways from each project to solidify newly acquired know
 
 | Week | Project Name | Tech Stack | Key Concepts | Repository Link |
 |-----|--------------|------------|--------------|----------------|
-| 01 | Collision and Gravity Engine | C++ / SDL2 | Vector normals, impulse resolution, overlap correction, Gravity Calculation | View Repository |
+| 01 | Collision and Gravity Engine | C++ / SDL2 | Vector normals, impulse resolution, overlap correction, Gravity Calculation | [View Repository](https://github.com/siuyanis9-ctrl/Projet1-CollisionAndGravity) |
 
 ---
 
